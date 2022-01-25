@@ -68,7 +68,7 @@ Authentications for each Applications
   
   5.Split Wise 
   
-     User -->username : User A
+     User -->username : UserA
           -->Password : 1234
           
           
