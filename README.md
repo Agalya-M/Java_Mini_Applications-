@@ -10,6 +10,8 @@ Zoho Mini Applications
 
 4.Library Management
 
+5.Split Wise
+
 ------------------------------------
 
 
@@ -61,5 +63,14 @@ Authentications for each Applications
     User --> Email : Borrower@gmail.com
     
          --> Password : Borrower
+         
+  -----------------------------------
+  
+  5.Split Wise 
+  
+     User -->username : User A
+          -->Password : 1234
+          
+          
         
         
